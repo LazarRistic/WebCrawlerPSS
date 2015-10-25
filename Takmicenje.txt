@@ -1,0 +1,94 @@
+<tr bgcolor='#3366CC' style='font-size: 9pt; color: #FFFFDD'>
+         <th width='70'>Datum<br>Mesto(grad)</th>
+         <th width='280'>Takmičenje<br>Kategorija</th>
+         <th width='180'>Partnerka<br>Klub</th> 
+		 <th width='85'>Kat.para</th> 
+		 <th width='30'>Raz.</th> 
+         <th width='40'>Mesto</th>
+		 <th width='40'>Parova</th>
+		 <th width='40'>Bodova</th>
+ 	    </tr><tr bgcolor='#97CBFF'> <td align=right bgcolor='#7DBEFF'>08.02.2014<br>Beograd</td>
+   				    <td>KV-REJTING TURNIR<br>SENIORI "D"</td> 
+					<td>Petrović Sanja<br>CALYPSO - Beograd</td>
+				    <td>SENIORI</td> <td align=center>D</td>
+					<td align=right bgcolor='#6CB6FF'>1<td align=right bgcolor='#7DBEFF'>1</td> <td align=right bgcolor='#FFA6A6'>10</td></tr><tr bgcolor='#97CBFF'> <td align=right bgcolor='#7DBEFF'>22.02.2014<br>Novi Sad</td>
+   				    <td>KV TURNIR I DP ST<br>SENIORI "D"</td> 
+					<td>Petrović Sanja<br>CALYPSO - Beograd</td>
+				    <td>SENIORI</td> <td align=center>D</td>
+					<td align=right bgcolor='#6CB6FF'>1<td align=right bgcolor='#7DBEFF'>3</td> <td align=right bgcolor='#FFA6A6'>14</td></tr><tr bgcolor='#97CBFF'> <td align=right bgcolor='#7DBEFF'>23.03.2014<br>Ub</td>
+   				    <td>KV TURNIR I KUP<br>SENIORI "D"</td> 
+					<td>Petrović Sanja<br>CALYPSO - Beograd</td>
+				    <td>SENIORI</td> <td align=center>D</td>
+					<td align=right bgcolor='#6CB6FF'>1<td align=right bgcolor='#7DBEFF'>3</td> <td align=right bgcolor='#FFA6A6'>14</td></tr><tr bgcolor='#97CBFF'> <td align=right bgcolor='#7DBEFF'>11.05.2014<br>Čačak</td>
+   				    <td>KV TURNIR I KUP<br>SENIORI "D"</td> 
+					<td>Petrović Sanja<br>CALYPSO - Beograd</td>
+				    <td>SENIORI</td> <td align=center>D</td>
+					<td align=right bgcolor='#6CB6FF'>2<td align=right bgcolor='#7DBEFF'>4</td> <td align=right bgcolor='#FFA6A6'>14</td></tr><tr bgcolor='#97CBFF'> <td align=right bgcolor='#7DBEFF'>14.06.2014<br>Beograd</td>
+   				    <td>KV turnir i DP LA<br>SENIORI LA</td> 
+					<td>Petrović Sanja<br>CALYPSO - Beograd</td>
+				    <td>SENIORI</td> <td align=center>D</td>
+					<td align=right bgcolor='#6CB6FF'>10<td align=right bgcolor='#7DBEFF'>12</td> <td align=right bgcolor='#FFA6A6'>15</td></tr><tr bgcolor='#97CBFF'> <td align=right bgcolor='#7DBEFF'>14.06.2014<br>Beograd</td>
+   				    <td>KV turnir i DP LA<br>SENIORI "D"</td> 
+					<td>Petrović Sanja<br>CALYPSO - Beograd</td>
+				    <td>SENIORI</td> <td align=center>D</td>
+					<td align=right bgcolor='#6CB6FF'>2<td align=right bgcolor='#7DBEFF'>3</td> <td align=right bgcolor='#FFA6A6'>12</td></tr><tr bgcolor='#97CBFF'> <td align=right bgcolor='#7DBEFF'>26.09.2014<br>Beograd</td>
+   				    <td>KV turnir i DP u 10 plesova<br>SENIORI</td> 
+					<td>Petrović Sanja<br>CALYPSO - Beograd</td>
+				    <td>SENIORI</td> <td align=center>D</td>
+					<td align=right bgcolor='#6CB6FF'>5<td align=right bgcolor='#7DBEFF'>5</td> <td align=right bgcolor='#FFA6A6'>30</td></tr><tr bgcolor='#97CBFF'> <td align=right bgcolor='#7DBEFF'>26.09.2014<br>Beograd</td>
+   				    <td>KV turnir i DP u 10 plesova<br>SENIORI "D"</td> 
+					<td>Petrović Sanja<br>CALYPSO - Beograd</td>
+				    <td>SENIORI</td> <td align=center>D</td>
+					<td align=right bgcolor='#6CB6FF'>1<td align=right bgcolor='#7DBEFF'>1</td> <td align=right bgcolor='#FFA6A6'>10</td></tr><tr bgcolor='#97CBFF'> <td align=right bgcolor='#7DBEFF'>27.09.2014<br>Beograd</td>
+   				    <td>Beodance Open 2014<br>Adult (8 dances Basic)</td> 
+					<td>Petrović Sanja<br>CALYPSO - Beograd</td>
+				    <td>SENIORI</td> <td align=center>D</td>
+					<td align=right bgcolor='#6CB6FF'>1<td align=right bgcolor='#7DBEFF'>1</td> <td align=right bgcolor='#FFA6A6'>15</td></tr><tr bgcolor='#97CBFF'> <td align=right bgcolor='#7DBEFF'>28.09.2014<br>Beograd</td>
+   				    <td>Beodance Open 2014<br>WDSF International Open LA</td> 
+					<td>Petrović Sanja<br>CALYPSO - Beograd</td>
+				    <td>SENIORI</td> <td align=center>C</td>
+					<td align=right bgcolor='#6CB6FF'>58<td align=right bgcolor='#7DBEFF'>62</td> <td align=right bgcolor='#51A8FF'>3</td></tr><tr bgcolor='#97CBFF'> <td align=right bgcolor='#7DBEFF'>28.09.2014<br>Beograd</td>
+   				    <td>Beodance Open 2014<br>Adult Basic LA</td> 
+					<td>Petrović Sanja<br>CALYPSO - Beograd</td>
+				    <td>SENIORI</td> <td align=center>C</td>
+					<td align=right bgcolor='#6CB6FF'>3<td align=right bgcolor='#7DBEFF'>4</td> <td align=right bgcolor='#51A8FF'>18</td></tr><tr bgcolor='#97CBFF'> <td align=right bgcolor='#7DBEFF'>23.11.2014<br>Futog</td>
+   				    <td>KV-REJTING TURNIR<br>SENIORI "C" LA</td> 
+					<td>Petrović Sanja<br>CALYPSO - Beograd</td>
+				    <td>SENIORI</td> <td align=center>C</td>
+					<td align=right bgcolor='#6CB6FF'>2<td align=right bgcolor='#7DBEFF'>3</td> <td align=right bgcolor='#51A8FF'>12</td></tr><tr bgcolor='#97CBFF'> <td align=right bgcolor='#7DBEFF'>07.02.2015<br>Beograd</td>
+   				    <td>KV-REJTING turnir<br>SENIORI "C" LA</td> 
+					<td>Petrović Sanja<br>CALYPSO - Beograd</td>
+				    <td>SENIORI</td> <td align=center>C</td>
+					<td align=right bgcolor='#6CB6FF'>1<td align=right bgcolor='#7DBEFF'>2</td> <td align=right bgcolor='#51A8FF'>12</td></tr><tr bgcolor='#97CBFF'> <td align=right bgcolor='#7DBEFF'>01.03.2015<br>Novi Sad</td>
+   				    <td>KV TURNIR I DP ST<br>SENIORI "C" LA</td> 
+					<td>Petrović Sanja<br>CALYPSO - Beograd</td>
+				    <td>SENIORI</td> <td align=center>C</td>
+					<td align=right bgcolor='#6CB6FF'>3<td align=right bgcolor='#7DBEFF'>3</td> <td align=right bgcolor='#51A8FF'>10</td></tr><tr bgcolor='#97CBFF'> <td align=right bgcolor='#7DBEFF'>22.03.2015<br>Beograd</td>
+   				    <td>KV turnir i KUP<br>SENIORI "C" LA</td> 
+					<td>Petrović Sanja<br>CALYPSO - Beograd</td>
+				    <td>SENIORI</td> <td align=center>C</td>
+					<td align=right bgcolor='#6CB6FF'>3<td align=right bgcolor='#7DBEFF'>4</td> <td align=right bgcolor='#51A8FF'>12</td></tr><tr bgcolor='#97CBFF'> <td align=right bgcolor='#7DBEFF'>01.05.2015<br>Sarajevo</td>
+   				    <td>Sarajevo Open 2015<br>Adult 5 dances LA</td> 
+					<td>Petrović Sanja<br>CALYPSO - Beograd</td>
+				    <td>SENIORI</td> <td align=center>C</td>
+					<td align=right bgcolor='#6CB6FF'>4<td align=right bgcolor='#7DBEFF'>4</td> <td align=right bgcolor='#51A8FF'>15</td></tr><tr bgcolor='#97CBFF'> <td align=right bgcolor='#7DBEFF'>02.05.2015<br>Sarajevo</td>
+   				    <td>Sarajevo Open 2015<br>WDSF International Open LA</td> 
+					<td>Petrović Sanja<br>CALYPSO - Beograd</td>
+				    <td>SENIORI</td> <td align=center>C</td>
+					<td align=right bgcolor='#6CB6FF'>24<td align=right bgcolor='#7DBEFF'>25</td> <td align=right bgcolor='#51A8FF'>10</td></tr><tr bgcolor='#97CBFF'> <td align=right bgcolor='#7DBEFF'>10.05.2015<br>Čačak</td>
+   				    <td>KV turnir i KUP<br>SENIORI KUP</td> 
+					<td>Petrović Sanja<br>CALYPSO - Beograd</td>
+				    <td>SENIORI</td> <td align=center>C</td>
+					<td align=right bgcolor='#6CB6FF'>9<td align=right bgcolor='#7DBEFF'>11</td> <td align=right bgcolor='#51A8FF'>12</td></tr><tr bgcolor='#97CBFF'> <td align=right bgcolor='#7DBEFF'>10.05.2015<br>Čačak</td>
+   				    <td>KV turnir i KUP<br>SENIORI "C" LA</td> 
+					<td>Petrović Sanja<br>CALYPSO - Beograd</td>
+				    <td>SENIORI</td> <td align=center>C</td>
+					<td align=right bgcolor='#6CB6FF'>1<td align=right bgcolor='#7DBEFF'>1</td> <td align=right bgcolor='#51A8FF'>10</td></tr><tr bgcolor='#97CBFF'> <td align=right bgcolor='#7DBEFF'>13.06.2015<br>Beograd</td>
+   				    <td>DP u LA plesovima i KV turnir<br>SENIORI LA</td> 
+					<td>Petrović Sanja<br>CALYPSO - Beograd</td>
+				    <td>SENIORI</td> <td align=center>C</td>
+					<td align=right bgcolor='#6CB6FF'>18<td align=right bgcolor='#7DBEFF'>21</td> <td align=right bgcolor='#51A8FF'>9</td></tr><tr bgcolor='#97CBFF'> <td align=right bgcolor='#7DBEFF'>13.06.2015<br>Beograd</td>
+   				    <td>DP u LA plesovima i KV turnir<br>SENIORI "C" LA</td> 
+					<td>Petrović Sanja<br>CALYPSO - Beograd</td>
+				    <td>SENIORI</td> <td align=center>C</td>
+					<td align=right bgcolor='#6CB6FF'>2<td align=right bgcolor='#7DBEFF'>2</td> <td align=right bgcolor='#51A8FF'>10</td></tr><tr bgcolor='#51A8FF' style='color: #FFFFFF'> <th colspan='7' align=right>UKUPNO : </th> <th align='right'>133</th></tr>

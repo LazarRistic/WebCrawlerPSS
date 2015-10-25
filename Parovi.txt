@@ -1,0 +1,363 @@
+LA: 
+Par: Dumić Filip - Dumić Jovana Bodovi: 93 Klub: FIESTA - Kragujevac Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20963&sfZs=20964&imMs=Dumić%20Filip%20-%20Dumić%20Jovana&ukbd=93&ktMs=PIOELA
+Par: Gatarić Uroš - Simić Danijela Bodovi: 57 Klub: BOLERO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21829&sfZs=22224&imMs=Gatarić%20Uroš%20-%20Simić%20Danijela&ukbd=57&ktMs=PIOELA
+Par: Morača Nikola - Savanović Ana Bodovi: 50 Klub: RITMO LATINO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21621&sfZs=22213&imMs=Morača%20Nikola%20-%20Savanović%20Ana&ukbd=50&ktMs=PIOELA
+Par: Smiljanić Đorđe - Roccella Bianka Bodovi: 43 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22266&sfZs=22270&imMs=Smiljanić%20Đorđe%20-%20Roccella%20Bianka&ukbd=43&ktMs=PIOELA
+Par: Stančić Stefan - Vasiljević Teodora Bodovi: 43 Klub: LUNA - Čačak Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21623&sfZs=21624&imMs=Stančić%20Stefan%20-%20Vasiljević%20Teodora&ukbd=43&ktMs=PIOELA
+Par: Mirković Maksim - Tomović Milica Bodovi: 34 Klub: LUNA - Čačak Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22214&sfZs=22215&imMs=Mirković%20Maksim%20-%20Tomović%20Milica&ukbd=34&ktMs=PIOELA
+Par: Đorđević Ignjat - Pantelić Anastasija Bodovi: 16 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22264&sfZs=22265&imMs=Đorđević%20Ignjat%20-%20Pantelić%20Anastasija&ukbd=16&ktMs=PIOELA
+Par: Mančić Dušan - Stevanović Nina Bodovi: 10 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22250&sfZs=22251&imMs=Mančić%20Dušan%20-%20Stevanović%20Nina&ukbd=10&ktMs=PIOELA
+Par: Aleksić Luka - Todorović Sofija Bodovi: 0 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22382&sfZs=22383&imMs=Aleksić%20Luka%20-%20Todorović%20Sofija&ukbd=0&ktMs=PIOELA
+Par: Dimitrijević Marko - Kramer Barbara Bodovi: 0 Klub: CHA CHA MOON - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22384&sfZs=22385&imMs=Dimitrijević%20Marko%20-%20Kramer%20Barbara&ukbd=0&ktMs=PIOELA
+Par: Radojčić Predrag - Atanasovski Mila Bodovi: 0 Klub: CHA CHA MOON - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22386&sfZs=22387&imMs=Radojčić%20Predrag%20-%20Atanasovski%20Mila&ukbd=0&ktMs=PIOELA
+ST: 
+Par: Dumić Filip - Dumić Jovana Bodovi: 93 Klub: FIESTA - Kragujevac Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20963&sfZs=20964&imMs=Dumić%20Filip%20-%20Dumić%20Jovana&ukbd=93&ktMs=PIOEST
+Par: Gatarić Uroš - Simić Danijela Bodovi: 57 Klub: BOLERO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21829&sfZs=22224&imMs=Gatarić%20Uroš%20-%20Simić%20Danijela&ukbd=57&ktMs=PIOEST
+Par: Morača Nikola - Savanović Ana Bodovi: 50 Klub: RITMO LATINO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21621&sfZs=22213&imMs=Morača%20Nikola%20-%20Savanović%20Ana&ukbd=50&ktMs=PIOEST
+Par: Stančić Stefan - Vasiljević Teodora Bodovi: 43 Klub: LUNA - Čačak Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21623&sfZs=21624&imMs=Stančić%20Stefan%20-%20Vasiljević%20Teodora&ukbd=43&ktMs=PIOEST
+Par: Smiljanić Đorđe - Roccella Bianka Bodovi: 43 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22266&sfZs=22270&imMs=Smiljanić%20Đorđe%20-%20Roccella%20Bianka&ukbd=43&ktMs=PIOEST
+Par: Mirković Maksim - Tomović Milica Bodovi: 34 Klub: LUNA - Čačak Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22214&sfZs=22215&imMs=Mirković%20Maksim%20-%20Tomović%20Milica&ukbd=34&ktMs=PIOEST
+Par: Đorđević Ignjat - Pantelić Anastasija Bodovi: 16 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22264&sfZs=22265&imMs=Đorđević%20Ignjat%20-%20Pantelić%20Anastasija&ukbd=16&ktMs=PIOEST
+Par: Mančić Dušan - Stevanović Nina Bodovi: 10 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22250&sfZs=22251&imMs=Mančić%20Dušan%20-%20Stevanović%20Nina&ukbd=10&ktMs=PIOEST
+Par: Aleksić Luka - Todorović Sofija Bodovi: 0 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22382&sfZs=22383&imMs=Aleksić%20Luka%20-%20Todorović%20Sofija&ukbd=0&ktMs=PIOEST
+Par: Dimitrijević Marko - Kramer Barbara Bodovi: 0 Klub: CHA CHA MOON - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22384&sfZs=22385&imMs=Dimitrijević%20Marko%20-%20Kramer%20Barbara&ukbd=0&ktMs=PIOEST
+Par: Radojčić Predrag - Atanasovski Mila Bodovi: 0 Klub: CHA CHA MOON - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22386&sfZs=22387&imMs=Radojčić%20Predrag%20-%20Atanasovski%20Mila&ukbd=0&ktMs=PIOEST
+LA: 
+Par: Ćirić Jovan - Stojković Marija Bodovi: 80 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21255&sfZs=21256&imMs=Ćirić%20Jovan%20-%20Stojković%20Marija&ukbd=80&ktMs=PIODLA
+Par: Janić Petar - Reljin Isidora Bodovi: 54 Klub: ALLEGRO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21528&sfZs=21529&imMs=Janić%20Petar%20-%20Reljin%20Isidora&ukbd=54&ktMs=PIODLA
+Par: Mitrović Aleksa - Marić Marija Bodovi: 54 Klub: LUNA - Čačak Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21625&sfZs=22381&imMs=Mitrović%20Aleksa%20-%20Marić%20Marija&ukbd=54&ktMs=PIODLA
+Par: Ćajić Novica - Ćajić Milica Bodovi: 34 Klub: NEO-DANCE - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21530&sfZs=21531&imMs=Ćajić%20Novica%20-%20Ćajić%20Milica&ukbd=34&ktMs=PIODLA
+Par: Ristić Tadej - Kaleb Elena Bodovi: 22 Klub: CALYPSO - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22235&sfZs=22236&imMs=Ristić%20Tadej%20-%20Kaleb%20Elena&ukbd=22&ktMs=PIODLA
+Par: Pavlović Nikola - Praizović Anđela Bodovi: 14 Klub: CALYPSO - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22237&sfZs=22238&imMs=Pavlović%20Nikola%20-%20Praizović%20Anđela&ukbd=14&ktMs=PIODLA
+ST: 
+Par: Ćirić Jovan - Stojković Marija Bodovi: 80 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21255&sfZs=21256&imMs=Ćirić%20Jovan%20-%20Stojković%20Marija&ukbd=80&ktMs=PIODST
+Par: Janić Petar - Reljin Isidora Bodovi: 54 Klub: ALLEGRO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21528&sfZs=21529&imMs=Janić%20Petar%20-%20Reljin%20Isidora&ukbd=54&ktMs=PIODST
+Par: Mitrović Aleksa - Marić Marija Bodovi: 54 Klub: LUNA - Čačak Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21625&sfZs=22381&imMs=Mitrović%20Aleksa%20-%20Marić%20Marija&ukbd=54&ktMs=PIODST
+Par: Ćajić Novica - Ćajić Milica Bodovi: 34 Klub: NEO-DANCE - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21530&sfZs=21531&imMs=Ćajić%20Novica%20-%20Ćajić%20Milica&ukbd=34&ktMs=PIODST
+Par: Ristić Tadej - Kaleb Elena Bodovi: 22 Klub: CALYPSO - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22235&sfZs=22236&imMs=Ristić%20Tadej%20-%20Kaleb%20Elena&ukbd=22&ktMs=PIODST
+Par: Pavlović Nikola - Praizović Anđela Bodovi: 14 Klub: CALYPSO - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22237&sfZs=22238&imMs=Pavlović%20Nikola%20-%20Praizović%20Anđela&ukbd=14&ktMs=PIODST
+LA: 
+Par: Stojković Danilo - Sinadinovski Doroteja Bodovi: 219 Klub: SPIN - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20414&sfZs=20415&imMs=Stojković%20Danilo%20-%20Sinadinovski%20Doroteja&ukbd=219&ktMs=PIOCLA
+Par: Popović Nikola - Savanović Andrea Bodovi: 109 Klub: AURORA - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20948&sfZs=20958&imMs=Popović%20Nikola%20-%20Savanović%20Andrea&ukbd=109&ktMs=PIOCLA
+Par: Mladenović Aleksa - Jonjević Sofija Bodovi: 94 Klub: BOLERO - Požarevac Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20967&sfZs=20968&imMs=Mladenović%20Aleksa%20-%20Jonjević%20Sofija&ukbd=94&ktMs=PIOCLA
+Par: Andrić Đorđe - Milutinović Ivana Bodovi: 57 Klub: LATINO DANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22222&sfZs=22223&imMs=Andrić%20Đorđe%20-%20Milutinović%20Ivana&ukbd=57&ktMs=PIOCLA
+Par: Dragaš Kosta - Kardaš Branislava Bodovi: 0 Klub: NEO-DANCE - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21532&sfZs=21533&imMs=Dragaš%20Kosta%20-%20Kardaš%20Branislava&ukbd=0&ktMs=PIOCLA
+ST: 
+Par: Stojković Danilo - Sinadinovski Doroteja Bodovi: 210 Klub: SPIN - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20414&sfZs=20415&imMs=Stojković%20Danilo%20-%20Sinadinovski%20Doroteja&ukbd=210&ktMs=PIOCST
+Par: Popović Nikola - Savanović Andrea Bodovi: 128 Klub: AURORA - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20948&sfZs=20958&imMs=Popović%20Nikola%20-%20Savanović%20Andrea&ukbd=128&ktMs=PIOCST
+Par: Mladenović Aleksa - Jonjević Sofija Bodovi: 56 Klub: BOLERO - Požarevac Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20967&sfZs=20968&imMs=Mladenović%20Aleksa%20-%20Jonjević%20Sofija&ukbd=56&ktMs=PIOCST
+Par: Andrić Đorđe - Milutinović Ivana Bodovi: 10 Klub: LATINO DANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22222&sfZs=22223&imMs=Andrić%20Đorđe%20-%20Milutinović%20Ivana&ukbd=10&ktMs=PIOCST
+Par: Dragaš Kosta - Kardaš Branislava Bodovi: 0 Klub: NEO-DANCE - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21532&sfZs=21533&imMs=Dragaš%20Kosta%20-%20Kardaš%20Branislava&ukbd=0&ktMs=PIOCST
+LA: 
+ST: 
+LA: 
+ST: 
+LA: 
+ST: 
+LA: 
+Par: Begović Zdravko - Vekić Katarina Bodovi: 74 Klub: BOLERO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22225&sfZs=22226&imMs=Begović%20Zdravko%20-%20Vekić%20Katarina&ukbd=74&ktMs=MLOELA
+Par: Simić Stefan - Čokorilo Emilija Bodovi: 47 Klub: VOJVODINA DENS - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22210&sfZs=22211&imMs=Simić%20Stefan%20-%20Čokorilo%20Emilija&ukbd=47&ktMs=MLOELA
+Par: Kalentić Luka - Đurovka Hana Katarina Bodovi: 46 Klub: RITMO LATINO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21619&sfZs=21620&imMs=Kalentić%20Luka%20-%20Đurovka%20Hana%20Katarina&ukbd=46&ktMs=MLOELA
+Par: Baucal Dimitrije - Cvijanović Jovana Bodovi: 38 Klub: BOLERO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22229&sfZs=22230&imMs=Baucal%20Dimitrije%20-%20Cvijanović%20Jovana&ukbd=38&ktMs=MLOELA
+Par: Georgijev Pavle - Novaković Iva Bodovi: 32 Klub: POINT - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21655&sfZs=21656&imMs=Georgijev%20Pavle%20-%20Novaković%20Iva&ukbd=32&ktMs=MLOELA
+Par: Božić Aleksa - Pavlović Mina Bodovi: 25 Klub: SPIN - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22233&sfZs=21082&imMs=Božić%20Aleksa%20-%20Pavlović%20Mina&ukbd=25&ktMs=MLOELA
+Par: Begović Drago - Matijaš Teodora Bodovi: 24 Klub: BOLERO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22227&sfZs=22228&imMs=Begović%20Drago%20-%20Matijaš%20Teodora&ukbd=24&ktMs=MLOELA
+Par: Stojiljković Aleksa - Vojinović Natalija Bodovi: 13 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21886&sfZs=21887&imMs=Stojiljković%20Aleksa%20-%20Vojinović%20Natalija&ukbd=13&ktMs=MLOELA
+Par: Bogojević Vladan - Vojinović Veronika Bodovi: 4 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22248&sfZs=22249&imMs=Bogojević%20Vladan%20-%20Vojinović%20Veronika&ukbd=4&ktMs=MLOELA
+Par: Bukara Aleksa - Bojović Tea Bodovi: 4 Klub: LUNA - Čačak Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22216&sfZs=22217&imMs=Bukara%20Aleksa%20-%20Bojović%20Tea&ukbd=4&ktMs=MLOELA
+Par: Pantić Aleksa - Glišić Tatjana Bodovi: 0 Klub: LUNA - Čačak Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22218&sfZs=22219&imMs=Pantić%20Aleksa%20-%20Glišić%20Tatjana&ukbd=0&ktMs=MLOELA
+ST: 
+Par: Begović Zdravko - Vekić Katarina Bodovi: 74 Klub: BOLERO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22225&sfZs=22226&imMs=Begović%20Zdravko%20-%20Vekić%20Katarina&ukbd=74&ktMs=MLOEST
+Par: Simić Stefan - Čokorilo Emilija Bodovi: 47 Klub: VOJVODINA DENS - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22210&sfZs=22211&imMs=Simić%20Stefan%20-%20Čokorilo%20Emilija&ukbd=47&ktMs=MLOEST
+Par: Kalentić Luka - Đurovka Hana Katarina Bodovi: 46 Klub: RITMO LATINO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21619&sfZs=21620&imMs=Kalentić%20Luka%20-%20Đurovka%20Hana%20Katarina&ukbd=46&ktMs=MLOEST
+Par: Baucal Dimitrije - Cvijanović Jovana Bodovi: 38 Klub: BOLERO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22229&sfZs=22230&imMs=Baucal%20Dimitrije%20-%20Cvijanović%20Jovana&ukbd=38&ktMs=MLOEST
+Par: Georgijev Pavle - Novaković Iva Bodovi: 32 Klub: POINT - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21655&sfZs=21656&imMs=Georgijev%20Pavle%20-%20Novaković%20Iva&ukbd=32&ktMs=MLOEST
+Par: Božić Aleksa - Pavlović Mina Bodovi: 25 Klub: SPIN - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22233&sfZs=21082&imMs=Božić%20Aleksa%20-%20Pavlović%20Mina&ukbd=25&ktMs=MLOEST
+Par: Begović Drago - Matijaš Teodora Bodovi: 24 Klub: BOLERO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22227&sfZs=22228&imMs=Begović%20Drago%20-%20Matijaš%20Teodora&ukbd=24&ktMs=MLOEST
+Par: Stojiljković Aleksa - Vojinović Natalija Bodovi: 13 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21886&sfZs=21887&imMs=Stojiljković%20Aleksa%20-%20Vojinović%20Natalija&ukbd=13&ktMs=MLOEST
+Par: Bogojević Vladan - Vojinović Veronika Bodovi: 4 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22248&sfZs=22249&imMs=Bogojević%20Vladan%20-%20Vojinović%20Veronika&ukbd=4&ktMs=MLOEST
+Par: Bukara Aleksa - Bojović Tea Bodovi: 4 Klub: LUNA - Čačak Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22216&sfZs=22217&imMs=Bukara%20Aleksa%20-%20Bojović%20Tea&ukbd=4&ktMs=MLOEST
+Par: Pantić Aleksa - Glišić Tatjana Bodovi: 0 Klub: LUNA - Čačak Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22218&sfZs=22219&imMs=Pantić%20Aleksa%20-%20Glišić%20Tatjana&ukbd=0&ktMs=MLOEST
+LA: 
+Par: Đorđević Luka - Burmudžija Aleksandra Bodovi: 112 Klub: POINT - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20930&sfZs=20931&imMs=Đorđević%20Luka%20-%20Burmudžija%20Aleksandra&ukbd=112&ktMs=MLODLA
+Par: Gubica Vladimir - Jevtić Jovana Bodovi: 69 Klub: RONDA - Sombor Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21837&sfZs=21838&imMs=Gubica%20Vladimir%20-%20Jevtić%20Jovana&ukbd=69&ktMs=MLODLA
+Par: Vakanjac Marko - Topić Anđela Bodovi: 66 Klub: VOJVODINA DENS - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22206&sfZs=22207&imMs=Vakanjac%20Marko%20-%20Topić%20Anđela&ukbd=66&ktMs=MLODLA
+Par: Pavlović Relja - Epler Sofija Bodovi: 64 Klub: POINT - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21643&sfZs=21644&imMs=Pavlović%20Relja%20-%20Epler%20Sofija&ukbd=64&ktMs=MLODLA
+Par: Jakab Vladimir - Vujović Elena Bodovi: 63 Klub: VOJVODINA DENS - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22208&sfZs=22209&imMs=Jakab%20Vladimir%20-%20Vujović%20Elena&ukbd=63&ktMs=MLODLA
+Par: Vićentić Dušan - Medar Kristina Bodovi: 57 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21249&sfZs=21250&imMs=Vićentić%20Dušan%20-%20Medar%20Kristina&ukbd=57&ktMs=MLODLA
+Par: Damnjanović Luka - Radulović Tijana Bodovi: 54 Klub: FIESTA - Kragujevac Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20965&sfZs=20966&imMs=Damnjanović%20Luka%20-%20Radulović%20Tijana&ukbd=54&ktMs=MLODLA
+Par: Pavlović Strahinja - Hadžić Ana Bodovi: 22 Klub: POINT - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21645&sfZs=21646&imMs=Pavlović%20Strahinja%20-%20Hadžić%20Ana&ukbd=22&ktMs=MLODLA
+Par: Milinković Boban - Obradović Anja Bodovi: 20 Klub: LUNA - Čačak Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21627&sfZs=21628&imMs=Milinković%20Boban%20-%20Obradović%20Anja&ukbd=20&ktMs=MLODLA
+Par: Đermanov Kosta - Maslarić Mina Bodovi: 0 Klub: ALLEGRO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22255&sfZs=20970&imMs=Đermanov%20Kosta%20-%20Maslarić%20Mina&ukbd=0&ktMs=MLODLA
+Par: Ristić Strahinja - Pavlović Ana Bodovi: 0 Klub: CALYPSO - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22239&sfZs=22240&imMs=Ristić%20Strahinja%20-%20Pavlović%20Ana&ukbd=0&ktMs=MLODLA
+ST: 
+Par: Đorđević Luka - Burmudžija Aleksandra Bodovi: 112 Klub: POINT - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20930&sfZs=20931&imMs=Đorđević%20Luka%20-%20Burmudžija%20Aleksandra&ukbd=112&ktMs=MLODST
+Par: Gubica Vladimir - Jevtić Jovana Bodovi: 69 Klub: RONDA - Sombor Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21837&sfZs=21838&imMs=Gubica%20Vladimir%20-%20Jevtić%20Jovana&ukbd=69&ktMs=MLODST
+Par: Vakanjac Marko - Topić Anđela Bodovi: 66 Klub: VOJVODINA DENS - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22206&sfZs=22207&imMs=Vakanjac%20Marko%20-%20Topić%20Anđela&ukbd=66&ktMs=MLODST
+Par: Pavlović Relja - Epler Sofija Bodovi: 64 Klub: POINT - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21643&sfZs=21644&imMs=Pavlović%20Relja%20-%20Epler%20Sofija&ukbd=64&ktMs=MLODST
+Par: Jakab Vladimir - Vujović Elena Bodovi: 63 Klub: VOJVODINA DENS - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22208&sfZs=22209&imMs=Jakab%20Vladimir%20-%20Vujović%20Elena&ukbd=63&ktMs=MLODST
+Par: Vićentić Dušan - Medar Kristina Bodovi: 57 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21249&sfZs=21250&imMs=Vićentić%20Dušan%20-%20Medar%20Kristina&ukbd=57&ktMs=MLODST
+Par: Damnjanović Luka - Radulović Tijana Bodovi: 54 Klub: FIESTA - Kragujevac Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20965&sfZs=20966&imMs=Damnjanović%20Luka%20-%20Radulović%20Tijana&ukbd=54&ktMs=MLODST
+Par: Pavlović Strahinja - Hadžić Ana Bodovi: 22 Klub: POINT - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21645&sfZs=21646&imMs=Pavlović%20Strahinja%20-%20Hadžić%20Ana&ukbd=22&ktMs=MLODST
+Par: Milinković Boban - Obradović Anja Bodovi: 20 Klub: LUNA - Čačak Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21627&sfZs=21628&imMs=Milinković%20Boban%20-%20Obradović%20Anja&ukbd=20&ktMs=MLODST
+Par: Đermanov Kosta - Maslarić Mina Bodovi: 0 Klub: ALLEGRO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22255&sfZs=20970&imMs=Đermanov%20Kosta%20-%20Maslarić%20Mina&ukbd=0&ktMs=MLODST
+Par: Ristić Strahinja - Pavlović Ana Bodovi: 0 Klub: CALYPSO - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22239&sfZs=22240&imMs=Ristić%20Strahinja%20-%20Pavlović%20Ana&ukbd=0&ktMs=MLODST
+LA: 
+Par: Radulović Martin - Radulović Maša Bodovi: 172 Klub: BEODANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21245&sfZs=21246&imMs=Radulović%20Martin%20-%20Radulović%20Maša&ukbd=172&ktMs=MLOCLA
+Par: Ramač Marko - Marković Dragana Bodovi: 153 Klub: BOLERO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20618&sfZs=19203&imMs=Ramač%20Marko%20-%20Marković%20Dragana&ukbd=153&ktMs=MLOCLA
+Par: Trnavčević Andrija - Rajić Katarina Bodovi: 100 Klub: POINT - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20932&sfZs=20933&imMs=Trnavčević%20Andrija%20-%20Rajić%20Katarina&ukbd=100&ktMs=MLOCLA
+Par: Janjić Aleksandar - Ristić Milica Bodovi: 60 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21247&sfZs=21248&imMs=Janjić%20Aleksandar%20-%20Ristić%20Milica&ukbd=60&ktMs=MLOCLA
+Par: Knežević Filip - Nikolovski Anja Bodovi: 32 Klub: POINT - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21538&sfZs=21539&imMs=Knežević%20Filip%20-%20Nikolovski%20Anja&ukbd=32&ktMs=MLOCLA
+Par: Stanić Jovan - Stojanović Jovana Bodovi: 26 Klub: NEO-DANCE - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20617&sfZs=20920&imMs=Stanić%20Jovan%20-%20Stojanović%20Jovana&ukbd=26&ktMs=MLOCLA
+ST: 
+Par: Vidović Aleksandar - Pejović Anastasija Bodovi: 205 Klub: RITMO LATINO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21253&sfZs=21519&imMs=Vidović%20Aleksandar%20-%20Pejović%20Anastasija&ukbd=205&ktMs=MLOCST
+Par: Ramač Marko - Marković Dragana Bodovi: 195 Klub: BOLERO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20618&sfZs=19203&imMs=Ramač%20Marko%20-%20Marković%20Dragana&ukbd=195&ktMs=MLOCST
+Par: Radulović Martin - Radulović Maša Bodovi: 123 Klub: BEODANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21245&sfZs=21246&imMs=Radulović%20Martin%20-%20Radulović%20Maša&ukbd=123&ktMs=MLOCST
+Par: Trnavčević Andrija - Rajić Katarina Bodovi: 56 Klub: POINT - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20932&sfZs=20933&imMs=Trnavčević%20Andrija%20-%20Rajić%20Katarina&ukbd=56&ktMs=MLOCST
+Par: Janjić Aleksandar - Ristić Milica Bodovi: 36 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21247&sfZs=21248&imMs=Janjić%20Aleksandar%20-%20Ristić%20Milica&ukbd=36&ktMs=MLOCST
+Par: Stanić Jovan - Stojanović Jovana Bodovi: 20 Klub: NEO-DANCE - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20617&sfZs=20920&imMs=Stanić%20Jovan%20-%20Stojanović%20Jovana&ukbd=20&ktMs=MLOCST
+Par: Knežević Filip - Nikolovski Anja Bodovi: 0 Klub: POINT - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21538&sfZs=21539&imMs=Knežević%20Filip%20-%20Nikolovski%20Anja&ukbd=0&ktMs=MLOCST
+LA: 
+Par: Vidović Aleksandar - Pejović Anastasija Bodovi: 0 Klub: RITMO LATINO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21253&sfZs=21519&imMs=Vidović%20Aleksandar%20-%20Pejović%20Anastasija&ukbd=0&ktMs=MLOBLA
+ST: 
+LA: 
+ST: 
+LA: 
+ST: 
+LA: 
+Par: Svorcan Veljko - Ćulibrk Minja Bodovi: 88 Klub: BOLERO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21203&sfZs=20321&imMs=Svorcan%20Veljko%20-%20Ćulibrk%20Minja&ukbd=88&ktMs=OMLELA
+Par: Jocev Predrag - Denković Aleksandra Bodovi: 24 Klub: BAILAMOS - Pirot Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21635&sfZs=21636&imMs=Jocev%20Predrag%20-%20Denković%20Aleksandra&ukbd=24&ktMs=OMLELA
+Par: Mijajlović Luka - Božinović Natalija Bodovi: 22 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21884&sfZs=21885&imMs=Mijajlović%20Luka%20-%20Božinović%20Natalija&ukbd=22&ktMs=OMLELA
+Par: Pejčić Žarko - Rančić Saša Bodovi: 14 Klub: BAILAMOS - Pirot Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21633&sfZs=21634&imMs=Pejčić%20Žarko%20-%20Rančić%20Saša&ukbd=14&ktMs=OMLELA
+Par: Mančić Predrag - Mančić Ivona Bodovi: 10 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22252&sfZs=22253&imMs=Mančić%20Predrag%20-%20Mančić%20Ivona&ukbd=10&ktMs=OMLELA
+ST: 
+Par: Svorcan Veljko - Ćulibrk Minja Bodovi: 88 Klub: BOLERO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21203&sfZs=20321&imMs=Svorcan%20Veljko%20-%20Ćulibrk%20Minja&ukbd=88&ktMs=OMLEST
+Par: Jocev Predrag - Denković Aleksandra Bodovi: 24 Klub: BAILAMOS - Pirot Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21635&sfZs=21636&imMs=Jocev%20Predrag%20-%20Denković%20Aleksandra&ukbd=24&ktMs=OMLEST
+Par: Mijajlović Luka - Božinović Natalija Bodovi: 22 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21884&sfZs=21885&imMs=Mijajlović%20Luka%20-%20Božinović%20Natalija&ukbd=22&ktMs=OMLEST
+Par: Pejčić Žarko - Rančić Saša Bodovi: 14 Klub: BAILAMOS - Pirot Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21633&sfZs=21634&imMs=Pejčić%20Žarko%20-%20Rančić%20Saša&ukbd=14&ktMs=OMLEST
+Par: Mančić Predrag - Mančić Ivona Bodovi: 10 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22252&sfZs=22253&imMs=Mančić%20Predrag%20-%20Mančić%20Ivona&ukbd=10&ktMs=OMLEST
+LA: 
+Par: Mirković Relja - Ivaneža Ivana Bodovi: 109 Klub: SPIN - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21083&sfZs=21084&imMs=Mirković%20Relja%20-%20Ivaneža%20Ivana&ukbd=109&ktMs=OMLDLA
+Par: Bojović Filip - Drobnjak Jana Bodovi: 74 Klub: LUNA - Čačak Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21629&sfZs=21630&imMs=Bojović%20Filip%20-%20Drobnjak%20Jana&ukbd=74&ktMs=OMLDLA
+ST: 
+Par: Mirković Relja - Ivaneža Ivana Bodovi: 109 Klub: SPIN - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21083&sfZs=21084&imMs=Mirković%20Relja%20-%20Ivaneža%20Ivana&ukbd=109&ktMs=OMLDST
+Par: Bojović Filip - Drobnjak Jana Bodovi: 74 Klub: LUNA - Čačak Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21629&sfZs=21630&imMs=Bojović%20Filip%20-%20Drobnjak%20Jana&ukbd=74&ktMs=OMLDST
+LA: 
+Par: Vučetić Pavle - Lazarević Kristina Bodovi: 161 Klub: LUNA - Čačak Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20287&sfZs=20288&imMs=Vučetić%20Pavle%20-%20Lazarević%20Kristina&ukbd=161&ktMs=OMLCLA
+Par: Simikić Nikola - Roccella Marta Bodovi: 78 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20938&sfZs=22269&imMs=Simikić%20Nikola%20-%20Roccella%20Marta&ukbd=78&ktMs=OMLCLA
+Par: Petljanski Aleksandar - Grba Nađa Bodovi: 60 Klub: VOJVODINA DENS - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20303&sfZs=21541&imMs=Petljanski%20Aleksandar%20-%20Grba%20Nađa&ukbd=60&ktMs=OMLCLA
+Par: Milenković Luka - Božović Sara Bodovi: 49 Klub: FIESTA - Kragujevac Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21525&sfZs=21526&imMs=Milenković%20Luka%20-%20Božović%20Sara&ukbd=49&ktMs=OMLCLA
+Par: Cvetković Danijel - Radovanović Sara Bodovi: 39 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21251&sfZs=21252&imMs=Cvetković%20Danijel%20-%20Radovanović%20Sara&ukbd=39&ktMs=OMLCLA
+Par: Macak Martin - Marčok Nina Bodovi: 0 Klub: RITMO LATINO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20956&sfZs=21069&imMs=Macak%20Martin%20-%20Marčok%20Nina&ukbd=0&ktMs=OMLCLA
+ST: 
+Par: Nemet Robert - Mitrović Riveros Maria Paola Bodovi: 182 Klub: FIESTA - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20927&sfZs=20928&imMs=Nemet%20Robert%20-%20Mitrović%20Riveros%20Maria%20Paola&ukbd=182&ktMs=OMLCST
+Par: Vučetić Pavle - Lazarević Kristina Bodovi: 163 Klub: LUNA - Čačak Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20287&sfZs=20288&imMs=Vučetić%20Pavle%20-%20Lazarević%20Kristina&ukbd=163&ktMs=OMLCST
+Par: Simikić Nikola - Roccella Marta Bodovi: 110 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20938&sfZs=22269&imMs=Simikić%20Nikola%20-%20Roccella%20Marta&ukbd=110&ktMs=OMLCST
+Par: Petljanski Aleksandar - Grba Nađa Bodovi: 60 Klub: VOJVODINA DENS - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20303&sfZs=21541&imMs=Petljanski%20Aleksandar%20-%20Grba%20Nađa&ukbd=60&ktMs=OMLCST
+Par: Milenković Luka - Božović Sara Bodovi: 46 Klub: FIESTA - Kragujevac Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21525&sfZs=21526&imMs=Milenković%20Luka%20-%20Božović%20Sara&ukbd=46&ktMs=OMLCST
+Par: Cvetković Danijel - Radovanović Sara Bodovi: 14 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21251&sfZs=21252&imMs=Cvetković%20Danijel%20-%20Radovanović%20Sara&ukbd=14&ktMs=OMLCST
+Par: Macak Martin - Marčok Nina Bodovi: 0 Klub: RITMO LATINO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20956&sfZs=21069&imMs=Macak%20Martin%20-%20Marčok%20Nina&ukbd=0&ktMs=OMLCST
+LA: 
+Par: Gačić Nikola - Gačić Natalija Bodovi: 871 Klub: LATINO DANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=19400&sfZs=19401&imMs=Gačić%20Nikola%20-%20Gačić%20Natalija&ukbd=871&ktMs=OMLBLA
+Par: Andrić Sava - Lemajić Katarina Bodovi: 753 Klub: BEODANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=18738&sfZs=19640&imMs=Andrić%20Sava%20-%20Lemajić%20Katarina&ukbd=753&ktMs=OMLBLA
+Par: Nikolić Nemanja - Jakovljević Teodora Bodovi: 627 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=17228&sfZs=17967&imMs=Nikolić%20Nemanja%20-%20Jakovljević%20Teodora&ukbd=627&ktMs=OMLBLA
+Par: Andrić Nikola - Čavkunović Luna Bodovi: 478 Klub: LATINO DANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20944&sfZs=20945&imMs=Andrić%20Nikola%20-%20Čavkunović%20Luna&ukbd=478&ktMs=OMLBLA
+Par: Đurović Aleksa - Dragnić Andrijana Bodovi: 412 Klub: LUNA - Čačak Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=18790&sfZs=18791&imMs=Đurović%20Aleksa%20-%20Dragnić%20Andrijana&ukbd=412&ktMs=OMLBLA
+Par: Petrović Lazar - Avramović Katarina Bodovi: 226 Klub: DARE TO DANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=17566&sfZs=19290&imMs=Petrović%20Lazar%20-%20Avramović%20Katarina&ukbd=226&ktMs=OMLBLA
+Par: Rakić Veljko - Mikić Jovana Bodovi: 139 Klub: BOLERO - Požarevac Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=18535&sfZs=18536&imMs=Rakić%20Veljko%20-%20Mikić%20Jovana&ukbd=139&ktMs=OMLBLA
+Par: Petković Gavrilo - Jevtić Sara Bodovi: 126 Klub: BOLERO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=19648&sfZs=20937&imMs=Petković%20Gavrilo%20-%20Jevtić%20Sara&ukbd=126&ktMs=OMLBLA
+Par: Savin Igor - Todić Sanja Bodovi: 126 Klub: BOLERO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=18729&sfZs=19207&imMs=Savin%20Igor%20-%20Todić%20Sanja&ukbd=126&ktMs=OMLBLA
+Par: Stojković Mihajlo - Đorđević Maša Bodovi: 119 Klub: LATINO DANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20942&sfZs=21733&imMs=Stojković%20Mihajlo%20-%20Đorđević%20Maša&ukbd=119&ktMs=OMLBLA
+Par: Ribarić Nikola - Đačić Dunja Bodovi: 28 Klub: AURORA - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=19137&sfZs=19138&imMs=Ribarić%20Nikola%20-%20Đačić%20Dunja&ukbd=28&ktMs=OMLBLA
+Par: Nemet Robert - Mitrović Riveros Maria Paola Bodovi: 0 Klub: FIESTA - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20927&sfZs=20928&imMs=Nemet%20Robert%20-%20Mitrović%20Riveros%20Maria%20Paola&ukbd=0&ktMs=OMLBLA
+ST: 
+Par: Andrić Sava - Lemajić Katarina Bodovi: 793 Klub: BEODANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=18738&sfZs=19640&imMs=Andrić%20Sava%20-%20Lemajić%20Katarina&ukbd=793&ktMs=OMLBST
+Par: Gačić Nikola - Gačić Natalija Bodovi: 680 Klub: LATINO DANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=19400&sfZs=19401&imMs=Gačić%20Nikola%20-%20Gačić%20Natalija&ukbd=680&ktMs=OMLBST
+Par: Andrić Nikola - Čavkunović Luna Bodovi: 543 Klub: LATINO DANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20944&sfZs=20945&imMs=Andrić%20Nikola%20-%20Čavkunović%20Luna&ukbd=543&ktMs=OMLBST
+Par: Nikolić Nemanja - Jakovljević Teodora Bodovi: 312 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=17228&sfZs=17967&imMs=Nikolić%20Nemanja%20-%20Jakovljević%20Teodora&ukbd=312&ktMs=OMLBST
+Par: Stojković Mihajlo - Đorđević Maša Bodovi: 248 Klub: LATINO DANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20942&sfZs=21733&imMs=Stojković%20Mihajlo%20-%20Đorđević%20Maša&ukbd=248&ktMs=OMLBST
+Par: Rakić Veljko - Mikić Jovana Bodovi: 184 Klub: BOLERO - Požarevac Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=18535&sfZs=18536&imMs=Rakić%20Veljko%20-%20Mikić%20Jovana&ukbd=184&ktMs=OMLBST
+Par: Petković Gavrilo - Jevtić Sara Bodovi: 180 Klub: BOLERO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=19648&sfZs=20937&imMs=Petković%20Gavrilo%20-%20Jevtić%20Sara&ukbd=180&ktMs=OMLBST
+Par: Savin Igor - Todić Sanja Bodovi: 125 Klub: BOLERO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=18729&sfZs=19207&imMs=Savin%20Igor%20-%20Todić%20Sanja&ukbd=125&ktMs=OMLBST
+Par: Đurović Aleksa - Dragnić Andrijana Bodovi: 110 Klub: LUNA - Čačak Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=18790&sfZs=18791&imMs=Đurović%20Aleksa%20-%20Dragnić%20Andrijana&ukbd=110&ktMs=OMLBST
+Par: Petrović Lazar - Avramović Katarina Bodovi: 86 Klub: DARE TO DANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=17566&sfZs=19290&imMs=Petrović%20Lazar%20-%20Avramović%20Katarina&ukbd=86&ktMs=OMLBST
+Par: Ribarić Nikola - Đačić Dunja Bodovi: 8 Klub: AURORA - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=19137&sfZs=19138&imMs=Ribarić%20Nikola%20-%20Đačić%20Dunja&ukbd=8&ktMs=OMLBST
+LA: 
+ST: 
+LA: 
+ST: 
+LA: 
+ST: 
+LA: 
+Par: Milenković Nemanja - Maksić Nevena Bodovi: 96 Klub: BOLERO - Požarevac Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20299&sfZs=20300&imMs=Milenković%20Nemanja%20-%20Maksić%20Nevena&ukbd=96&ktMs=STODLA
+Par: Trbović Dušan - Kinčeš Dunja Bodovi: 60 Klub: BOLERO - Požarevac Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20297&sfZs=20936&imMs=Trbović%20Dušan%20-%20Kinčeš%20Dunja&ukbd=60&ktMs=STODLA
+Par: Đukić David - Smrekić Sara Bodovi: 0 Klub: LUNA - Čačak Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22380&sfZs=22221&imMs=Đukić%20David%20-%20Smrekić%20Sara&ukbd=0&ktMs=STODLA
+ST: 
+Par: Milenković Nemanja - Maksić Nevena Bodovi: 96 Klub: BOLERO - Požarevac Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20299&sfZs=20300&imMs=Milenković%20Nemanja%20-%20Maksić%20Nevena&ukbd=96&ktMs=STODST
+Par: Trbović Dušan - Kinčeš Dunja Bodovi: 60 Klub: BOLERO - Požarevac Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20297&sfZs=20936&imMs=Trbović%20Dušan%20-%20Kinčeš%20Dunja&ukbd=60&ktMs=STODST
+Par: Đukić David - Smrekić Sara Bodovi: 0 Klub: LUNA - Čačak Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22380&sfZs=22221&imMs=Đukić%20David%20-%20Smrekić%20Sara&ukbd=0&ktMs=STODST
+LA: 
+Par: Hireš Aron - Žemberi Ana Bodovi: 144 Klub: TANGO - Bačka Topola Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20318&sfZs=18564&imMs=Hireš%20Aron%20-%20Žemberi%20Ana&ukbd=144&ktMs=STOCLA
+Par: Ivanić Stanko - Lukić Marija Bodovi: 65 Klub: BOLERO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=18222&sfZs=19205&imMs=Ivanić%20Stanko%20-%20Lukić%20Marija&ukbd=65&ktMs=STOCLA
+Par: Horvat Valentin - Garzo Klaudia Bodovi: 0 Klub: TANGO - Bačka Topola Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=19166&sfZs=20941&imMs=Horvat%20Valentin%20-%20Garzo%20Klaudia&ukbd=0&ktMs=STOCLA
+Par: Vozar Ondrej - Pećkovski Tijana Bodovi: 0 Klub: RITMO LATINO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20954&sfZs=22212&imMs=Vozar%20Ondrej%20-%20Pećkovski%20Tijana&ukbd=0&ktMs=STOCLA
+Par: Wasi Ariyan - Upčev Elena Bodovi: 0 Klub: ALLEGRO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21071&sfZs=20327&imMs=Wasi%20Ariyan%20-%20Upčev%20Elena&ukbd=0&ktMs=STOCLA
+Par: Boršoš Akoš - Tamaši Vanessa Bodovi: 0 Klub: TANGO - Bačka Topola Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21204&sfZs=21648&imMs=Boršoš%20Akoš%20-%20Tamaši%20Vanessa&ukbd=0&ktMs=STOCLA
+ST: 
+Par: Hireš Aron - Žemberi Ana Bodovi: 145 Klub: TANGO - Bačka Topola Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20318&sfZs=18564&imMs=Hireš%20Aron%20-%20Žemberi%20Ana&ukbd=145&ktMs=STOCST
+Par: Ivanić Stanko - Lukić Marija Bodovi: 42 Klub: BOLERO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=18222&sfZs=19205&imMs=Ivanić%20Stanko%20-%20Lukić%20Marija&ukbd=42&ktMs=STOCST
+Par: Horvat Valentin - Garzo Klaudia Bodovi: 0 Klub: TANGO - Bačka Topola Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=19166&sfZs=20941&imMs=Horvat%20Valentin%20-%20Garzo%20Klaudia&ukbd=0&ktMs=STOCST
+Par: Vozar Ondrej - Pećkovski Tijana Bodovi: 0 Klub: RITMO LATINO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=20954&sfZs=22212&imMs=Vozar%20Ondrej%20-%20Pećkovski%20Tijana&ukbd=0&ktMs=STOCST
+Par: Wasi Ariyan - Upčev Elena Bodovi: 0 Klub: ALLEGRO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21071&sfZs=20327&imMs=Wasi%20Ariyan%20-%20Upčev%20Elena&ukbd=0&ktMs=STOCST
+Par: Boršoš Akoš - Tamaši Vanessa Bodovi: 0 Klub: TANGO - Bačka Topola Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21204&sfZs=21648&imMs=Boršoš%20Akoš%20-%20Tamaši%20Vanessa&ukbd=0&ktMs=STOCST
+LA: 
+Par: Mihajlović Siniša - Hajnal Regina Bodovi: 1140 Klub: BOLERO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=19204&sfZs=18544&imMs=Mihajlović%20Siniša%20-%20Hajnal%20Regina&ukbd=1140&ktMs=STOBLA
+Par: Kraljević Nedeljko - Mosić Nina Bodovi: 1043 Klub: LATINO DANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=16041&sfZs=20925&imMs=Kraljević%20Nedeljko%20-%20Mosić%20Nina&ukbd=1043&ktMs=STOBLA
+Par: Mašanović Nemanja - Došenović Marija Bodovi: 569 Klub: NATALIJA I IVICA - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=15208&sfZs=13467&imMs=Mašanović%20Nemanja%20-%20Došenović%20Marija&ukbd=569&ktMs=STOBLA
+Par: Stevanović Vuk - Čavkunović Nora Bodovi: 456 Klub: LATINO DANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=16835&sfZs=17999&imMs=Stevanović%20Vuk%20-%20Čavkunović%20Nora&ukbd=456&ktMs=STOBLA
+Par: Fatić Danilo - Mijatović Natalija Bodovi: 319 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=17558&sfZs=17567&imMs=Fatić%20Danilo%20-%20Mijatović%20Natalija&ukbd=319&ktMs=STOBLA
+Par: Petrović Petar - Veličković Ivana Bodovi: 256 Klub: BEODANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=15216&sfZs=16459&imMs=Petrović%20Petar%20-%20Veličković%20Ivana&ukbd=256&ktMs=STOBLA
+Par: Đorđević Miloš - Kasumović Ines Bodovi: 243 Klub: BEODANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=16599&sfZs=19980&imMs=Đorđević%20Miloš%20-%20Kasumović%20Ines&ukbd=243&ktMs=STOBLA
+Par: Gemaljević Luka - Grujić Jovana Bodovi: 190 Klub: SPIN - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=19190&sfZs=19191&imMs=Gemaljević%20Luka%20-%20Grujić%20Jovana&ukbd=190&ktMs=STOBLA
+Par: Colić Aleksa - Vasiljević Mia Bodovi: 136 Klub: NATALIJA I IVICA - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=19639&sfZs=16871&imMs=Colić%20Aleksa%20-%20Vasiljević%20Mia&ukbd=136&ktMs=STOBLA
+Par: Utješinović Borislav - Janković Sara Bodovi: 128 Klub: BEODANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=15220&sfZs=16856&imMs=Utješinović%20Borislav%20-%20Janković%20Sara&ukbd=128&ktMs=STOBLA
+Par: Dmitrić Miloš - Smrekić Sara Bodovi: 123 Klub: LUNA - Čačak Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=18792&sfZs=22221&imMs=Dmitrić%20Miloš%20-%20Smrekić%20Sara&ukbd=123&ktMs=STOBLA
+Par: Nešković Nikola - Andrejević Natalija Bodovi: 92 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=17562&sfZs=21257&imMs=Nešković%20Nikola%20-%20Andrejević%20Natalija&ukbd=92&ktMs=STOBLA
+Par: Dimovski Ognjen - Spasović Jana Bodovi: 0 Klub: CALYPSO - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=16956&sfZs=20301&imMs=Dimovski%20Ognjen%20-%20Spasović%20Jana&ukbd=0&ktMs=STOBLA
+ST: 
+Par: Kraljević Nedeljko - Mosić Nina Bodovi: 767 Klub: LATINO DANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=16041&sfZs=20925&imMs=Kraljević%20Nedeljko%20-%20Mosić%20Nina&ukbd=767&ktMs=STOBST
+Par: Stevanović Vuk - Čavkunović Nora Bodovi: 502 Klub: LATINO DANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=16835&sfZs=17999&imMs=Stevanović%20Vuk%20-%20Čavkunović%20Nora&ukbd=502&ktMs=STOBST
+Par: Petrović Petar - Veličković Ivana Bodovi: 477 Klub: BEODANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=15216&sfZs=16459&imMs=Petrović%20Petar%20-%20Veličković%20Ivana&ukbd=477&ktMs=STOBST
+Par: Đorđević Miloš - Kasumović Ines Bodovi: 403 Klub: BEODANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=16599&sfZs=19980&imMs=Đorđević%20Miloš%20-%20Kasumović%20Ines&ukbd=403&ktMs=STOBST
+Par: Mašanović Nemanja - Došenović Marija Bodovi: 340 Klub: NATALIJA I IVICA - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=15208&sfZs=13467&imMs=Mašanović%20Nemanja%20-%20Došenović%20Marija&ukbd=340&ktMs=STOBST
+Par: Mihajlović Siniša - Hajnal Regina Bodovi: 267 Klub: BOLERO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=19204&sfZs=18544&imMs=Mihajlović%20Siniša%20-%20Hajnal%20Regina&ukbd=267&ktMs=STOBST
+Par: Colić Aleksa - Vasiljević Mia Bodovi: 241 Klub: NATALIJA I IVICA - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=19639&sfZs=16871&imMs=Colić%20Aleksa%20-%20Vasiljević%20Mia&ukbd=241&ktMs=STOBST
+Par: Gemaljević Luka - Grujić Jovana Bodovi: 191 Klub: SPIN - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=19190&sfZs=19191&imMs=Gemaljević%20Luka%20-%20Grujić%20Jovana&ukbd=191&ktMs=STOBST
+Par: Utješinović Borislav - Janković Sara Bodovi: 150 Klub: BEODANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=15220&sfZs=16856&imMs=Utješinović%20Borislav%20-%20Janković%20Sara&ukbd=150&ktMs=STOBST
+Par: Nešković Nikola - Andrejević Natalija Bodovi: 21 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=17562&sfZs=21257&imMs=Nešković%20Nikola%20-%20Andrejević%20Natalija&ukbd=21&ktMs=STOBST
+Par: Fatić Danilo - Mijatović Natalija Bodovi: 11 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=17558&sfZs=17567&imMs=Fatić%20Danilo%20-%20Mijatović%20Natalija&ukbd=11&ktMs=STOBST
+Par: Dmitrić Miloš - Smrekić Sara Bodovi: 7 Klub: LUNA - Čačak Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=18792&sfZs=22221&imMs=Dmitrić%20Miloš%20-%20Smrekić%20Sara&ukbd=7&ktMs=STOBST
+Par: Dimovski Ognjen - Spasović Jana Bodovi: 0 Klub: CALYPSO - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=16956&sfZs=20301&imMs=Dimovski%20Ognjen%20-%20Spasović%20Jana&ukbd=0&ktMs=STOBST
+LA: 
+ST: 
+LA: 
+ST: 
+LA: 
+ST: 
+LA: 
+Par: Žakula Miloš - Davidović Marijana Bodovi: 22 Klub: BOLERO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22254&sfZs=19226&imMs=Žakula%20Miloš%20-%20Davidović%20Marijana&ukbd=22&ktMs=SENDLA
+Par: Konrad David - Aćimović Jelena Bodovi: 20 Klub: NEO-DANCE - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22260&sfZs=10750&imMs=Konrad%20David%20-%20Aćimović%20Jelena&ukbd=20&ktMs=SENDLA
+Par: Moravčević Vladimir - Vuković Nikoleta Bodovi: 10 Klub: LALA - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22262&sfZs=22263&imMs=Moravčević%20Vladimir%20-%20Vuković%20Nikoleta&ukbd=10&ktMs=SENDLA
+ST: 
+Par: Žakula Miloš - Davidović Marijana Bodovi: 22 Klub: BOLERO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22254&sfZs=19226&imMs=Žakula%20Miloš%20-%20Davidović%20Marijana&ukbd=22&ktMs=SENDST
+Par: Konrad David - Aćimović Jelena Bodovi: 20 Klub: NEO-DANCE - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22260&sfZs=10750&imMs=Konrad%20David%20-%20Aćimović%20Jelena&ukbd=20&ktMs=SENDST
+Par: Moravčević Vladimir - Vuković Nikoleta Bodovi: 10 Klub: LALA - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22262&sfZs=22263&imMs=Moravčević%20Vladimir%20-%20Vuković%20Nikoleta&ukbd=10&ktMs=SENDST
+LA: 
+Par: Aličić Samir - Janković Teodora Bodovi: 195 Klub: BOLERO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=7227&sfZs=2700&imMs=Aličić%20Samir%20-%20Janković%20Teodora&ukbd=195&ktMs=SENCLA
+Par: Tatić Marko - Marković Darija Bodovi: 138 Klub: NEO-DANCE - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=4493&sfZs=19156&imMs=Tatić%20Marko%20-%20Marković%20Darija&ukbd=138&ktMs=SENCLA
+Par: Ristić Lazar - Petrović Sanja Bodovi: 133 Klub: CALYPSO - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21527&sfZs=9794&imMs=Ristić%20Lazar%20-%20Petrović%20Sanja&ukbd=133&ktMs=SENCLA
+Par: Pavlekić Slaven - Popović Katarina Bodovi: 127 Klub: POINT - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=19199&sfZs=22241&imMs=Pavlekić%20Slaven%20-%20Popović%20Katarina&ukbd=127&ktMs=SENCLA
+Par: Munitlak Vladimir - Đurović Marija Bodovi: 21 Klub: LUNA - Čačak Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21631&sfZs=22220&imMs=Munitlak%20Vladimir%20-%20Đurović%20Marija&ukbd=21&ktMs=SENCLA
+Par: Miković Vladimir - Stupar Marina Bodovi: 5 Klub: VOJVODINA DENS - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22231&sfZs=22232&imMs=Miković%20Vladimir%20-%20Stupar%20Marina&ukbd=5&ktMs=SENCLA
+ST: 
+Par: Ristić Bojan - Injac Dragana Bodovi: 192 Klub: BOLERO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=17985&sfZs=20473&imMs=Ristić%20Bojan%20-%20Injac%20Dragana&ukbd=192&ktMs=SENCST
+Par: Rajić Goran - Stamenković Nikoleta Bodovi: 183 Klub: NEO-DANCE - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=12666&sfZs=4500&imMs=Rajić%20Goran%20-%20Stamenković%20Nikoleta&ukbd=183&ktMs=SENCST
+Par: Tatić Marko - Marković Darija Bodovi: 157 Klub: NEO-DANCE - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=4493&sfZs=19156&imMs=Tatić%20Marko%20-%20Marković%20Darija&ukbd=157&ktMs=SENCST
+Par: Ristić Lazar - Petrović Sanja Bodovi: 140 Klub: CALYPSO - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21527&sfZs=9794&imMs=Ristić%20Lazar%20-%20Petrović%20Sanja&ukbd=140&ktMs=SENCST
+Par: Pavlekić Slaven - Popović Katarina Bodovi: 106 Klub: POINT - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=19199&sfZs=22241&imMs=Pavlekić%20Slaven%20-%20Popović%20Katarina&ukbd=106&ktMs=SENCST
+Par: Miković Vladimir - Stupar Marina Bodovi: 5 Klub: VOJVODINA DENS - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=22231&sfZs=22232&imMs=Miković%20Vladimir%20-%20Stupar%20Marina&ukbd=5&ktMs=SENCST
+Par: Munitlak Vladimir - Đurović Marija Bodovi: 0 Klub: LUNA - Čačak Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21631&sfZs=22220&imMs=Munitlak%20Vladimir%20-%20Đurović%20Marija&ukbd=0&ktMs=SENCST
+LA: 
+Par: Kranik Đorđe - Borozan Marina Bodovi: 555 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=8609&sfZs=3931&imMs=Kranik%20Đorđe%20-%20Borozan%20Marina&ukbd=555&ktMs=SENBLA
+Par: Rakić Nikola - Živković Ljubica Bodovi: 481 Klub: SPIN - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=1261&sfZs=17932&imMs=Rakić%20Nikola%20-%20Živković%20Ljubica&ukbd=481&ktMs=SENBLA
+Par: Tepić Nikola - Lukić Anđela Bodovi: 472 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=8599&sfZs=15209&imMs=Tepić%20Nikola%20-%20Lukić%20Anđela&ukbd=472&ktMs=SENBLA
+Par: Marković Miloš - Zdravković Miona Bodovi: 469 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=401&sfZs=11439&imMs=Marković%20Miloš%20-%20Zdravković%20Miona&ukbd=469&ktMs=SENBLA
+Par: Matović Aleksa - Klenkovski Jovana Bodovi: 439 Klub: BEODANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=4536&sfZs=18558&imMs=Matović%20Aleksa%20-%20Klenkovski%20Jovana&ukbd=439&ktMs=SENBLA
+Par: Vuletin Dejan - Razdoljac Dejana Bodovi: 384 Klub: BEODANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=4464&sfZs=20323&imMs=Vuletin%20Dejan%20-%20Razdoljac%20Dejana&ukbd=384&ktMs=SENBLA
+Par: Ćurčić Mlađan - Džaja Gorana Bodovi: 355 Klub: FIESTA - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=915&sfZs=981&imMs=Ćurčić%20Mlađan%20-%20Džaja%20Gorana&ukbd=355&ktMs=SENBLA
+Par: Vujaković Darko - Erceg Kristina Bodovi: 350 Klub: LUNA - Čačak Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=3832&sfZs=21632&imMs=Vujaković%20Darko%20-%20Erceg%20Kristina&ukbd=350&ktMs=SENBLA
+Par: Brkić Damir - Hadžić Marija Bodovi: 239 Klub: BEODANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=18733&sfZs=16528&imMs=Brkić%20Damir%20-%20Hadžić%20Marija&ukbd=239&ktMs=SENBLA
+Par: Vukobrat Petar - Gavrilov Kristina Bodovi: 229 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=19171&sfZs=14295&imMs=Vukobrat%20Petar%20-%20Gavrilov%20Kristina&ukbd=229&ktMs=SENBLA
+Par: Patafta Stefan - Gordić Gordana Bodovi: 216 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=3810&sfZs=10017&imMs=Patafta%20Stefan%20-%20Gordić%20Gordana&ukbd=216&ktMs=SENBLA
+Par: Janjić Aleksandar - Bogdanović Nataša Bodovi: 202 Klub: BEODANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=18734&sfZs=19923&imMs=Janjić%20Aleksandar%20-%20Bogdanović%20Nataša&ukbd=202&ktMs=SENBLA
+Par: Tepić Milan - Bajić Dragana Bodovi: 185 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=3806&sfZs=3807&imMs=Tepić%20Milan%20-%20Bajić%20Dragana&ukbd=185&ktMs=SENBLA
+Par: Veličković Zlatko - Panzalović Marina Bodovi: 156 Klub: BEODANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=15881&sfZs=20322&imMs=Veličković%20Zlatko%20-%20Panzalović%20Marina&ukbd=156&ktMs=SENBLA
+Par: Ivanović Nikola - Zdravković Lana Bodovi: 151 Klub: BOLERO - Požarevac Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=4477&sfZs=10020&imMs=Ivanović%20Nikola%20-%20Zdravković%20Lana&ukbd=151&ktMs=SENBLA
+Par: Salonski Ivan - Kukić Staša Bodovi: 133 Klub: BOLERO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=2714&sfZs=2733&imMs=Salonski%20Ivan%20-%20Kukić%20Staša&ukbd=133&ktMs=SENBLA
+Par: Drobina Norbert - Juhász Kitti Bodovi: 109 Klub: RONDA - Sombor Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=4482&sfZs=19396&imMs=Drobina%20Norbert%20-%20Juhász%20Kitti&ukbd=109&ktMs=SENBLA
+Par: Jovanović Marko - Stojkečić Jelena Bodovi: 91 Klub: BOLERO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=18565&sfZs=10754&imMs=Jovanović%20Marko%20-%20Stojkečić%20Jelena&ukbd=91&ktMs=SENBLA
+Par: Biro Blagojević Robert - Kravtcova Viktoria Bodovi: 88 Klub: RITMO LATINO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=4484&sfZs=22268&imMs=Biro%20Blagojević%20Robert%20-%20Kravtcova%20Viktoria&ukbd=88&ktMs=SENBLA
+Par: Stefanović Milan - Krstić Jelena Bodovi: 79 Klub: AURORA - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=1947&sfZs=20926&imMs=Stefanović%20Milan%20-%20Krstić%20Jelena&ukbd=79&ktMs=SENBLA
+Par: Nađ Florijan - Gajin Milena Bodovi: 74 Klub: FIESTA - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=12869&sfZs=10143&imMs=Nađ%20Florijan%20-%20Gajin%20Milena&ukbd=74&ktMs=SENBLA
+Par: Vidaić Goran - Lazić Jelena Bodovi: 67 Klub: FIESTA - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=12089&sfZs=2769&imMs=Vidaić%20Goran%20-%20Lazić%20Jelena&ukbd=67&ktMs=SENBLA
+Par: Leskur Mirko - Daničić Jelena Bodovi: 53 Klub: ALLEGRO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=17935&sfZs=19139&imMs=Leskur%20Mirko%20-%20Daničić%20Jelena&ukbd=53&ktMs=SENBLA
+Par: Lazarević Željko - Subotić Suzana Bodovi: 43 Klub: POINT - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=10718&sfZs=17465&imMs=Lazarević%20Željko%20-%20Subotić%20Suzana&ukbd=43&ktMs=SENBLA
+Par: Simikić Nemanja - Simikić Tijana Bodovi: 38 Klub: POINT - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=8718&sfZs=8719&imMs=Simikić%20Nemanja%20-%20Simikić%20Tijana&ukbd=38&ktMs=SENBLA
+Par: Petronijević Dušan - Zarić Ivana Bodovi: 31 Klub: CALYPSO - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=5217&sfZs=11446&imMs=Petronijević%20Dušan%20-%20Zarić%20Ivana&ukbd=31&ktMs=SENBLA
+Par: Ilić Janko - Danilović Nataša Bodovi: 20 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=16880&sfZs=18723&imMs=Ilić%20Janko%20-%20Danilović%20Nataša&ukbd=20&ktMs=SENBLA
+Par: Mišić Ivan - Kovačević Katarina Bodovi: 12 Klub: SPIN - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=19194&sfZs=19195&imMs=Mišić%20Ivan%20-%20Kovačević%20Katarina&ukbd=12&ktMs=SENBLA
+Par: Ilić Dragoljub - Marković Milena Bodovi: 7 Klub: BOLERO - Požarevac Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=1549&sfZs=8710&imMs=Ilić%20Dragoljub%20-%20Marković%20Milena&ukbd=7&ktMs=SENBLA
+Par: Stepanović Željko - Dejanović Tiana Bodovi: 0 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=8597&sfZs=20921&imMs=Stepanović%20Željko%20-%20Dejanović%20Tiana&ukbd=0&ktMs=SENBLA
+Par: Ristić Bojan - Injac Dragana Bodovi: 0 Klub: BOLERO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=17985&sfZs=20473&imMs=Ristić%20Bojan%20-%20Injac%20Dragana&ukbd=0&ktMs=SENBLA
+Par: Rajić Goran - Stamenković Nikoleta Bodovi: 0 Klub: NEO-DANCE - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=12666&sfZs=4500&imMs=Rajić%20Goran%20-%20Stamenković%20Nikoleta&ukbd=0&ktMs=SENBLA
+Par: Ratković Jovan - Martinović Marija Bodovi: 0 Klub: BEODANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=4068&sfZs=12881&imMs=Ratković%20Jovan%20-%20Martinović%20Marija&ukbd=0&ktMs=SENBLA
+Par: Dukanac Ognjen - Čučaković Anđela Bodovi: 0 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=8613&sfZs=8614&imMs=Dukanac%20Ognjen%20-%20Čučaković%20Anđela&ukbd=0&ktMs=SENBLA
+Par: Fabijan David - Ukraden Nikolina Bodovi: 0 Klub: ALLEGRO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=16327&sfZs=17997&imMs=Fabijan%20David%20-%20Ukraden%20Nikolina&ukbd=0&ktMs=SENBLA
+Par: Banić Deni - Jovanović Violeta Bodovi: 0 Klub: BEODANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=1346&sfZs=11599&imMs=Banić%20Deni%20-%20Jovanović%20Violeta&ukbd=0&ktMs=SENBLA
+ST: 
+Par: Stepanović Željko - Dejanović Tiana Bodovi: 430 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=8597&sfZs=20921&imMs=Stepanović%20Željko%20-%20Dejanović%20Tiana&ukbd=430&ktMs=SENBST
+Par: Salonski Ivan - Kukić Staša Bodovi: 412 Klub: BOLERO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=2714&sfZs=2733&imMs=Salonski%20Ivan%20-%20Kukić%20Staša&ukbd=412&ktMs=SENBST
+Par: Vuletin Dejan - Razdoljac Dejana Bodovi: 373 Klub: BEODANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=4464&sfZs=20323&imMs=Vuletin%20Dejan%20-%20Razdoljac%20Dejana&ukbd=373&ktMs=SENBST
+Par: Dukanac Ognjen - Čučaković Anđela Bodovi: 343 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=8613&sfZs=8614&imMs=Dukanac%20Ognjen%20-%20Čučaković%20Anđela&ukbd=343&ktMs=SENBST
+Par: Rakić Nikola - Živković Ljubica Bodovi: 301 Klub: SPIN - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=1261&sfZs=17932&imMs=Rakić%20Nikola%20-%20Živković%20Ljubica&ukbd=301&ktMs=SENBST
+Par: Ćurčić Mlađan - Džaja Gorana Bodovi: 270 Klub: FIESTA - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=915&sfZs=981&imMs=Ćurčić%20Mlađan%20-%20Džaja%20Gorana&ukbd=270&ktMs=SENBST
+Par: Brkić Damir - Hadžić Marija Bodovi: 245 Klub: BEODANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=18733&sfZs=16528&imMs=Brkić%20Damir%20-%20Hadžić%20Marija&ukbd=245&ktMs=SENBST
+Par: Drobina Norbert - Juhász Kitti Bodovi: 244 Klub: RONDA - Sombor Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=4482&sfZs=19396&imMs=Drobina%20Norbert%20-%20Juhász%20Kitti&ukbd=244&ktMs=SENBST
+Par: Ilić Dragoljub - Marković Milena Bodovi: 200 Klub: BOLERO - Požarevac Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=1549&sfZs=8710&imMs=Ilić%20Dragoljub%20-%20Marković%20Milena&ukbd=200&ktMs=SENBST
+Par: Vasiljević Marko - Škrbić Marija Bodovi: 186 Klub: LATINO DANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=14917&sfZs=10012&imMs=Vasiljević%20Marko%20-%20Škrbić%20Marija&ukbd=186&ktMs=SENBST
+Par: Janjić Aleksandar - Bogdanović Nataša Bodovi: 159 Klub: BEODANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=18734&sfZs=19923&imMs=Janjić%20Aleksandar%20-%20Bogdanović%20Nataša&ukbd=159&ktMs=SENBST
+Par: Biro Blagojević Robert - Kravtcova Viktoria Bodovi: 156 Klub: RITMO LATINO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=4484&sfZs=22268&imMs=Biro%20Blagojević%20Robert%20-%20Kravtcova%20Viktoria&ukbd=156&ktMs=SENBST
+Par: Veličković Zlatko - Panzalović Marina Bodovi: 132 Klub: BEODANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=15881&sfZs=20322&imMs=Veličković%20Zlatko%20-%20Panzalović%20Marina&ukbd=132&ktMs=SENBST
+Par: Ivanović Nikola - Zdravković Lana Bodovi: 127 Klub: BOLERO - Požarevac Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=4477&sfZs=10020&imMs=Ivanović%20Nikola%20-%20Zdravković%20Lana&ukbd=127&ktMs=SENBST
+Par: Leskur Mirko - Daničić Jelena Bodovi: 108 Klub: ALLEGRO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=17935&sfZs=19139&imMs=Leskur%20Mirko%20-%20Daničić%20Jelena&ukbd=108&ktMs=SENBST
+Par: Jovanović Marko - Stojkečić Jelena Bodovi: 101 Klub: BOLERO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=18565&sfZs=10754&imMs=Jovanović%20Marko%20-%20Stojkečić%20Jelena&ukbd=101&ktMs=SENBST
+Par: Fabijan David - Ukraden Nikolina Bodovi: 101 Klub: ALLEGRO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=16327&sfZs=17997&imMs=Fabijan%20David%20-%20Ukraden%20Nikolina&ukbd=101&ktMs=SENBST
+Par: Vukobrat Petar - Gavrilov Kristina Bodovi: 84 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=19171&sfZs=14295&imMs=Vukobrat%20Petar%20-%20Gavrilov%20Kristina&ukbd=84&ktMs=SENBST
+Par: Lazarević Željko - Subotić Suzana Bodovi: 73 Klub: POINT - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=10718&sfZs=17465&imMs=Lazarević%20Željko%20-%20Subotić%20Suzana&ukbd=73&ktMs=SENBST
+Par: Aličić Samir - Janković Teodora Bodovi: 72 Klub: BOLERO - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=7227&sfZs=2700&imMs=Aličić%20Samir%20-%20Janković%20Teodora&ukbd=72&ktMs=SENBST
+Par: Filipović Ignjat - Maksimović Irena Bodovi: 66 Klub: BEODANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=8601&sfZs=3831&imMs=Filipović%20Ignjat%20-%20Maksimović%20Irena&ukbd=66&ktMs=SENBST
+Par: Marković Miloš - Zdravković Miona Bodovi: 65 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=401&sfZs=11439&imMs=Marković%20Miloš%20-%20Zdravković%20Miona&ukbd=65&ktMs=SENBST
+Par: Vujaković Darko - Erceg Kristina Bodovi: 49 Klub: LUNA - Čačak Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=3832&sfZs=21632&imMs=Vujaković%20Darko%20-%20Erceg%20Kristina&ukbd=49&ktMs=SENBST
+Par: Mišić Ivan - Kovačević Katarina Bodovi: 43 Klub: SPIN - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=19194&sfZs=19195&imMs=Mišić%20Ivan%20-%20Kovačević%20Katarina&ukbd=43&ktMs=SENBST
+Par: Vidaić Goran - Lazić Jelena Bodovi: 23 Klub: FIESTA - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=12089&sfZs=2769&imMs=Vidaić%20Goran%20-%20Lazić%20Jelena&ukbd=23&ktMs=SENBST
+Par: Nađ Florijan - Gajin Milena Bodovi: 21 Klub: FIESTA - Novi Sad Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=12869&sfZs=10143&imMs=Nađ%20Florijan%20-%20Gajin%20Milena&ukbd=21&ktMs=SENBST
+Par: Patafta Stefan - Gordić Gordana Bodovi: 0 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=3810&sfZs=10017&imMs=Patafta%20Stefan%20-%20Gordić%20Gordana&ukbd=0&ktMs=SENBST
+Par: Stefanović Milan - Krstić Jelena Bodovi: 0 Klub: AURORA - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=1947&sfZs=20926&imMs=Stefanović%20Milan%20-%20Krstić%20Jelena&ukbd=0&ktMs=SENBST
+Par: Ilić Janko - Danilović Nataša Bodovi: 0 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=16880&sfZs=18723&imMs=Ilić%20Janko%20-%20Danilović%20Nataša&ukbd=0&ktMs=SENBST
+Par: Petronijević Dušan - Zarić Ivana Bodovi: 0 Klub: CALYPSO - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=5217&sfZs=11446&imMs=Petronijević%20Dušan%20-%20Zarić%20Ivana&ukbd=0&ktMs=SENBST
+LA: 
+Par: Vasiljević Marko - Škrbić Marija Bodovi: 602 Klub: LATINO DANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=14917&sfZs=10012&imMs=Vasiljević%20Marko%20-%20Škrbić%20Marija&ukbd=602&ktMs=SENALA
+Par: Munćan Mišel - Stamenova Marija Bodovi: 487 Klub: BEODANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=12240&sfZs=4460&imMs=Munćan%20Mišel%20-%20Stamenova%20Marija&ukbd=487&ktMs=SENALA
+Par: Filipović Ignjat - Maksimović Irena Bodovi: 256 Klub: BEODANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=8601&sfZs=3831&imMs=Filipović%20Ignjat%20-%20Maksimović%20Irena&ukbd=256&ktMs=SENALA
+Par: Milojković Petar - Milašinović Ana Bodovi: 224 Klub: BEODANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=1951&sfZs=11457&imMs=Milojković%20Petar%20-%20Milašinović%20Ana&ukbd=224&ktMs=SENALA
+Par: Mladenović Boris - Mladenović Sonja Bodovi: 48 Klub: AURORA - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=3196&sfZs=9284&imMs=Mladenović%20Boris%20-%20Mladenović%20Sonja&ukbd=48&ktMs=SENALA
+ST: 
+Par: Milojković Petar - Milašinović Ana Bodovi: 628 Klub: BEODANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=1951&sfZs=11457&imMs=Milojković%20Petar%20-%20Milašinović%20Ana&ukbd=628&ktMs=SENAST
+Par: Tepić Milan - Bajić Dragana Bodovi: 498 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=3806&sfZs=3807&imMs=Tepić%20Milan%20-%20Bajić%20Dragana&ukbd=498&ktMs=SENAST
+Par: Munćan Mišel - Stamenova Marija Bodovi: 464 Klub: BEODANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=12240&sfZs=4460&imMs=Munćan%20Mišel%20-%20Stamenova%20Marija&ukbd=464&ktMs=SENAST
+Par: Simikić Nemanja - Simikić Tijana Bodovi: 245 Klub: POINT - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=8718&sfZs=8719&imMs=Simikić%20Nemanja%20-%20Simikić%20Tijana&ukbd=245&ktMs=SENAST
+Par: Matović Aleksa - Klenkovski Jovana Bodovi: 158 Klub: BEODANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=4536&sfZs=18558&imMs=Matović%20Aleksa%20-%20Klenkovski%20Jovana&ukbd=158&ktMs=SENAST
+Par: Tepić Nikola - Lukić Anđela Bodovi: 53 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=8599&sfZs=15209&imMs=Tepić%20Nikola%20-%20Lukić%20Anđela&ukbd=53&ktMs=SENAST
+Par: Banić Deni - Jovanović Violeta Bodovi: 16 Klub: BEODANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=1346&sfZs=11599&imMs=Banić%20Deni%20-%20Jovanović%20Violeta&ukbd=16&ktMs=SENAST
+Par: Kranik Đorđe - Borozan Marina Bodovi: 0 Klub: VRAČAR - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=8609&sfZs=3931&imMs=Kranik%20Đorđe%20-%20Borozan%20Marina&ukbd=0&ktMs=SENAST
+Par: Lazareski Bojan - Novak Tjaša Bodovi: 0 Klub: SPIN - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=2576&sfZs=15886&imMs=Lazareski%20Bojan%20-%20Novak%20Tjaša&ukbd=0&ktMs=SENAST
+LA: 
+Par: Knežević Ivan - Vitcan Alena Bodovi: 5636 Klub: BEODANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=541&sfZs=22234&imMs=Knežević%20Ivan%20-%20Vitcan%20Alena&ukbd=5636&ktMs=SENILA
+Par: Mileusnić Ivan - Stojković Jelena Bodovi: 2880 Klub: BEODANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=168&sfZs=5837&imMs=Mileusnić%20Ivan%20-%20Stojković%20Jelena&ukbd=2880&ktMs=SENILA
+Par: Lazareski Bojan - Novak Tjaša Bodovi: 2548 Klub: SPIN - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=2576&sfZs=15886&imMs=Lazareski%20Bojan%20-%20Novak%20Tjaša&ukbd=2548&ktMs=SENILA
+Par: Erdelyi Szilard Denes - Juhas Žofia Bodovi: 510 Klub: TANGO - Bačka Topola Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21258&sfZs=8594&imMs=Erdelyi%20Szilard%20Denes%20-%20Juhas%20Žofia&ukbd=510&ktMs=SENILA
+ST: 
+Par: Knežević Ivan - Vitcan Alena Bodovi: 6027 Klub: BEODANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=541&sfZs=22234&imMs=Knežević%20Ivan%20-%20Vitcan%20Alena&ukbd=6027&ktMs=SENIST
+Par: Mladenović Boris - Mladenović Sonja Bodovi: 275 Klub: AURORA - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=3196&sfZs=9284&imMs=Mladenović%20Boris%20-%20Mladenović%20Sonja&ukbd=275&ktMs=SENIST
+Par: Ratković Jovan - Martinović Marija Bodovi: 262 Klub: BEODANCE - Beograd Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=4068&sfZs=12881&imMs=Ratković%20Jovan%20-%20Martinović%20Marija&ukbd=262&ktMs=SENIST
+Par: Erdelyi Szilard Denes - Juhas Žofia Bodovi: 0 Klub: TANGO - Bačka Topola Link: http://www.ples.co.rs/psss/frm_bdl.php?sfMs=21258&sfZs=8594&imMs=Erdelyi%20Szilard%20Denes%20-%20Juhas%20Žofia&ukbd=0&ktMs=SENIST
